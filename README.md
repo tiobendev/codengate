@@ -1,9 +1,9 @@
 - 👋 Hi, I’m @codengate
 
-A Game Indie Studio in Brasil - Welcome! 
+We are an Indie Game Studio based in Brazil - Welcome!
 
-https://codengate.github.io/
+[Visit our website](https://codengate.github.io/)
 
-Equipe:
-@tiobendev - CEO.
-@codengate - Studio.
+Team:
+- @tiobendev - CEO
+- @codengate - Studio
